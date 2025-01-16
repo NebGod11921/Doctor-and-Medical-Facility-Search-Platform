@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="FluentApis\" />
+    <Folder Include="IRepositories\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
